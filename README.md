@@ -1,11 +1,11 @@
-deep-pink
+mychessgame
 =========
 
-Deep Pink is a chess AI that learns to play chess using deep learning. [Here](http://erikbern.com/2014/11/29/deep-learning-for-chess/) is a  blog post providing some details about how it works.
+Using a "smart" chess game as a human proof of work for the cryptocurrency Benana-Chain. 
+This chess games uses machine learning to learn from a user's moves and it becomes "smarter" after each game played.
 
-There is a pre-trained model in the repo, but if you want to train your own model you need to download pgn files and run `parse_game.py`. After that, you need to run `train.py`, preferrably on a GPU machine since it will be 10-100x faster. This might take several days for a big model.
+mychessgame was created after [deep-pink](http://erikbern.com/2014/11/29/deep-learning-for-chess/)
 
-Note that the code is a bit hacky (eg. hardcoded paths in some places) so you might have to modify those to suit your needs.
 
 Dependencies
 ============
