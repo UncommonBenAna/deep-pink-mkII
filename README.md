@@ -4,7 +4,7 @@ mychessgame
 Using a "smart" chess game as a human proof of work for the cryptocurrency Benana-Chain. 
 This chess games uses machine learning to learn from a user's moves and it becomes "smarter" after each game played.
 
-mychessgame was created after [deep-pink](http://erikbern.com/2014/11/29/deep-learning-for-chess/)
+mychessgame was created after [deep-pink](https://github.com/erikbern/deep-pink)
 
 
 Dependencies
